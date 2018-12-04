@@ -1,3 +1,14 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+![](/assets/import.png)
+
+1.引言
+
+1.1编写目的
+
+     为了让你更好的了解并体验我们小程序，特此编写此用户指南。希望你再快速阅读此用户指南后能掌握一些小技巧或者消除你对一些问题的疑虑。
+
+1.2项目背景
+
+     本小程序由 PSU CUSA IT部开发。PSU CUSA拥有此小程序的最终解释权。 
+
