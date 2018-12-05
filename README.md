@@ -11,7 +11,7 @@
 1.2项目背景
 
 ```
- 本小程序由 PSU CUSA IT部开发。PSU CUSA拥有此小程序的最终解释权。 
+ 本小程序由 PSU CUSA IT部开发。PSU CUSA拥有此小程序的最终解释权。
 ```
 
 
